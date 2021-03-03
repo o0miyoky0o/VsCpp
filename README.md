@@ -1,2 +1,0 @@
-# VsCpp
-VsCpp
